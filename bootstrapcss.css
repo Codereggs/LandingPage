@@ -1,0 +1,23 @@
+#amor {
+    color:red;
+    font-style:italic;
+    
+}
+
+.fondorojo {
+    color: white;
+    background-color: red;
+}
+
+.fondoazul {
+    color:white;
+    background-color: blue;
+}
+
+# npm
+npm i tippy.js
+
+# Yarn
+yarn add tippy.js
+import tippy from 'tippy.js';
+import 'tippy.js/dist/tippy.css'; // optional for styling
